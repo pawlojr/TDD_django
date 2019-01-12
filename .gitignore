@@ -1,4 +1,5 @@
 db.sqlite3
-gecodriver.log
+.idea
+gecodriver*
 __pycache__
 *.pyc
