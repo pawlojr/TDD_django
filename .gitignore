@@ -1,8 +1,8 @@
-db.sqlite3
-.idea
 gecodriver*
 __pycache__
 *.pyc
 /.project
 /geckodriver.exe
 /geckodriver.log
+db.sqlite3
+.idea
